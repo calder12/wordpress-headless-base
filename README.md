@@ -12,7 +12,7 @@ There are four plugins included with this install that I feel are very helpful
 
 ## Functions.php / Gutenberg
 
-The theme also disables the Gutenberg plugin for posts and pages in functions.php. This is purely a functional choice and you can renable it by removing lines 6 & 7 from functions.php
+The theme also disables the Gutenberg plugin for posts and pages in functions.php. This is purely a personal choice and you can renable it by removing lines 6 & 7 from functions.php
 
 ## DOTenv
 
