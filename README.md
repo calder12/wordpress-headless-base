@@ -26,7 +26,6 @@ The uploads folder is git ignored on purpose. Ideally you'll use Cloudinary to m
 
 * **Rick Calder** - *Initial work* - [calder.io](https://calder.io)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
 ## License
 
